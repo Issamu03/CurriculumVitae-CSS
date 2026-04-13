@@ -1,2 +1,2 @@
 # CurriculumVitae-CSS
-Site Curriculum Vitae
+Atividade Prática - Curriculum Vitae HTML CSS
